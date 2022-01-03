@@ -4,4 +4,4 @@ Descripción
 * item 2
 * item 3
 
-[botón azul](link)
+[botón violeta](link)
